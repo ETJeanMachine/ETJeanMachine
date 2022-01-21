@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ETJeanMachine
+- 👋 Hi, I’m @ETJeanMachine (But you can call me Eric).
 - 👀 I’m interested in computers, politics, and data.
 - 🌱 I’m currently learning Computer Science at Rochester Institute of Technology.
 - 📫 You can reach me [via email](mailto:etj2206@rit.edu).

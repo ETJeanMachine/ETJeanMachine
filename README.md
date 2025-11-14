@@ -6,7 +6,7 @@ I love Rust, Svelte, Python, data science, and all sorts of fun stuff. You can c
 
 Also check out my webbed site over here -> [jeanmachine.dev](https://jeanmachine.dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=etjeanmachine&layout=compact&theme=radical&hide=jupyter%20notebook,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=etjeanmachine&layout=compact&theme=tokyonight&hide=jupyter%20notebook,css)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 ETJeanMachine/ETJeanMachine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

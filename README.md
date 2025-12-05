@@ -6,11 +6,12 @@ I love Rust, Svelte, Python, data science, and all sorts of fun stuff. You can c
 
 Also check out my webbed site over here -> [jeanmachine.dev](https://jeanmachine.dev)
 
-
-| Github Stats                                                                                                                            | Top Languages
-|-----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[![Jean's GitHub stats](https://github-readme-stats-ten-delta-55.vercel.app/api?username=etjeanmachine&show_icons=true&theme=tokyonight&hide=stars)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats-ten-delta-55.vercel.app/api/top-langs/?username=etjeanmachine&layout=compact&theme=tokyonight&hide=jupyter%20notebook,css,mcfunction)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img alt="Jean's Github Stats" height="150" align="center" src="https://github-readme-stats-ten-delta-55.vercel.app/api?username=etjeanmachine&show_icons=true&theme=tokyonight&hide=stars&custom_title=Jean's+Github+Stats"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img alt="Top Languages" height="150" align="center" src="https://github-readme-stats-ten-delta-55.vercel.app/api/top-langs/?username=etjeanmachine&layout=compact&theme=tokyonight&hide=jupyter%20notebook,css,mcfunction"/>
+</a>
 
 <!---
 ETJeanMachine/ETJeanMachine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -9,7 +9,7 @@ Also check out my webbed site over here -> [jeanmachine.dev](https://jeanmachine
 
 | Github Stats                                                                                                                            | Top Languages
 |-----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|![Jean's GitHub stats](https://github-readme-stats-ten-delta-55.vercel.app/api?username=etjeanmachine&show_icons=true&theme=tokyonight&hide=stars)|[![Top Langs](https://github-readme-stats-ten-delta-55.vercel.app/api/top-langs/?username=etjeanmachine&layout=compact&theme=tokyonight&hide=jupyter%20notebook,css,mcfunction)](https://github.com/anuraghazra/github-readme-stats)
+|[![Jean's GitHub stats](https://github-readme-stats-ten-delta-55.vercel.app/api?username=etjeanmachine&show_icons=true&theme=tokyonight&hide=stars)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats-ten-delta-55.vercel.app/api/top-langs/?username=etjeanmachine&layout=compact&theme=tokyonight&hide=jupyter%20notebook,css,mcfunction)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---

@@ -6,11 +6,11 @@ I love Rust, Svelte, Python, data science, and all sorts of fun stuff. You can c
 
 Also check out my webbed site over here -> [jeanmachine.dev](https://jeanmachine.dev)
 
-<!---
+
 | Github Stats                                                                                                                            | Top Languages
 |-----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|![Jean's GitHub stats](https://github-readme-stats.vercel.app/api?username=etjeanmachine&show_icons=true&theme=tokyonight&hide=stars)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=etjeanmachine&layout=compact&theme=tokyonight&hide=jupyter%20notebook,css)](https://github.com/anuraghazra/github-readme-stats)
---->
+|![Jean's GitHub stats](https://github-readme-stats-ten-delta-55.vercel.app/api?username=etjeanmachine&show_icons=true&theme=tokyonight&hide=stars)|[![Top Langs](https://github-readme-stats-ten-delta-55.vercel.app/api/top-langs/?username=etjeanmachine&layout=compact&theme=tokyonight&hide=jupyter%20notebook,css)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 ETJeanMachine/ETJeanMachine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

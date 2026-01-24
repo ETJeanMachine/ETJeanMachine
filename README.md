@@ -7,10 +7,18 @@ I love Rust, Svelte, Python, data science, and all sorts of fun stuff. You can c
 Also check out my webbed site over here -> [jeanmachine.dev](https://jeanmachine.dev)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="Jean's Github Stats" height="150" align="center" src="https://github-readme-stats-ten-delta-55.vercel.app/api?username=etjeanmachine&show_icons=true&theme=tokyonight&hide=stars&custom_title=Jean's+Github+Stats"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-delta-55.vercel.app/api?username=etjeanmachine&show_icons=true&theme=catppuccin_mocha&hide=stars&custom_title=Jean's+Github+Stats">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-delta-55.vercel.app/api?username=etjeanmachine&show_icons=true&theme=catppuccin_latte&hide=stars&custom_title=Jean's+Github+Stats">
+    <img alt="Jean's Github Stats" height="150" align="center" src="https://github-readme-stats-ten-delta-55.vercel.app/api?username=etjeanmachine&show_icons=true&theme=catppuccin_latte&hide=stars&custom_title=Jean's+Github+Stats"/>
+  </picture>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="Top Languages" height="150" align="center" src="https://github-readme-stats-ten-delta-55.vercel.app/api/top-langs/?username=etjeanmachine&layout=compact&theme=tokyonight&hide=jupyter%20notebook,css,mcfunction&exclude_repo=transit-data&langs_count=8"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-delta-55.vercel.app/api/top-langs/?username=etjeanmachine&layout=compact&theme=catppuccin_mocha&hide=jupyter%20notebook,css,mcfunction&exclude_repo=transit-data&langs_count=8">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-delta-55.vercel.app/api/top-langs/?username=etjeanmachine&layout=compact&theme=catppuccin_latte&hide=jupyter%20notebook,css,mcfunction&exclude_repo=transit-data&langs_count=8">
+    <img alt="Top Languages" height="150" align="center" src="https://github-readme-stats-ten-delta-55.vercel.app/api/top-langs/?username=etjeanmachine&layout=compact&theme=catppuccin_latte&hide=jupyter%20notebook,css,mcfunction&exclude_repo=transit-data&langs_count=8"/>
+  </picture>
 </a>
 
 <!---

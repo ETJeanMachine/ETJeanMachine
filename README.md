@@ -15,9 +15,9 @@ Also check out my webbed site over here -> [jeanmachine.dev](https://jeanmachine
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-delta-55.vercel.app/api/top-langs/?username=etjeanmachine&layout=compact&theme=catppuccin_mocha&hide=jupyter%20notebook,css,mcfunction&exclude_repo=transit-data&langs_count=8">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-delta-55.vercel.app/api/top-langs/?username=etjeanmachine&layout=compact&theme=catppuccin_latte&hide=jupyter%20notebook,css,mcfunction&exclude_repo=transit-data&langs_count=8">
-    <img alt="Top Languages" height="150" align="center" src="https://github-readme-stats-ten-delta-55.vercel.app/api/top-langs/?username=etjeanmachine&layout=compact&theme=catppuccin_mocha&hide=jupyter%20notebook,css,mcfunction&exclude_repo=transit-data&langs_count=8"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-delta-55.vercel.app/api/top-langs/?username=etjeanmachine&layout=compact&theme=catppuccin_mocha&hide=jupyter%20notebook,css,mcfunction&exclude_repo=transit-data&langs_count=8&cache_seconds=1800&v=2">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-delta-55.vercel.app/api/top-langs/?username=etjeanmachine&layout=compact&theme=catppuccin_latte&hide=jupyter%20notebook,css,mcfunction&exclude_repo=transit-data&langs_count=8&cache_seconds=1800&v=2">
+    <img alt="Top Languages" height="150" align="center" src="https://github-readme-stats-ten-delta-55.vercel.app/api/top-langs/?username=etjeanmachine&layout=compact&theme=catppuccin_mocha&hide=jupyter%20notebook,css,mcfunction&exclude_repo=transit-data&langs_count=8&cache_seconds=1800&v=2"/>
   </picture>
 </a>
 

@@ -8,9 +8,9 @@ Also check out my webbed site over here -> [jeanmachine.dev](https://jeanmachine
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-delta-55.vercel.app/api?username=etjeanmachine&show_icons=true&theme=catppuccin_frappe&hide=stars&custom_title=Jean's+Github+Stats">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-delta-55.vercel.app/api?username=etjeanmachine&show_icons=true&theme=catppuccin_latte&hide=stars&custom_title=Jean's+Github+Stats">
-    <img alt="Jean's Github Stats" height="150" align="center" src="https://github-readme-stats-ten-delta-55.vercel.app/api?username=etjeanmachine&show_icons=true&theme=catppuccin_frappe&hide=stars&custom_title=Jean's+Github+Stats"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-delta-55.vercel.app/api?username=etjeanmachine&show_icons=true&theme=catppuccin_frappe&hide=stars&custom_title=Eliza's+Github+Stats">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-delta-55.vercel.app/api?username=etjeanmachine&show_icons=true&theme=catppuccin_latte&hide=stars&custom_title=Eliza's+Github+Stats">
+    <img alt="Eliza's Github Stats" height="150" align="center" src="https://github-readme-stats-ten-delta-55.vercel.app/api?username=etjeanmachine&show_icons=true&theme=catppuccin_frappe&hide=stars&custom_title=Eliza's+Github+Stats"/>
   </picture>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
